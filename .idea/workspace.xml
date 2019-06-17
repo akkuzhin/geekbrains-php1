@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab16e3ee-b8c6-40be-b21e-e16fbe6d8cf3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2/calendar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/deposite.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="calendar.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="calendar.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2/calendar.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="738">
               <caret line="71" column="36" selection-start-line="71" selection-start-column="36" selection-end-line="71" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deposite.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2/deposite.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -32,6 +40,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/2/calendar.php" />
+        <option value="$PROJECT_DIR$/2/deposite.php" />
       </list>
     </option>
   </component>
@@ -61,6 +70,11 @@
             <path>
               <item name="geekbrains-php1" type="b2602c69:ProjectViewProjectNode" />
               <item name="geekbrains-php1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="geekbrains-php1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="geekbrains-php1" type="462c0819:PsiDirectoryNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -101,12 +115,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560805005246</updated>
-      <workItem from="1560805006642" duration="57000" />
+      <workItem from="1560805006642" duration="309000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57000" />
+    <option name="totallyTimeSpent" value="309000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="303" y="29" width="1664" height="1040" extended-state="0" />
@@ -144,6 +158,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="738">
           <caret line="71" column="36" selection-start-line="71" selection-start-column="36" selection-end-line="71" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/deposite.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
         </state>
       </provider>
     </entry>
