@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab16e3ee-b8c6-40be-b21e-e16fbe6d8cf3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/2/fibonaCHi.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/calendar.php" beforeDir="false" afterPath="$PROJECT_DIR$/2/calendar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/deposite.php" beforeDir="false" afterPath="$PROJECT_DIR$/2/deposite.php" afterDir="false" />
-    </list>
+    <list default="true" id="ab16e3ee-b8c6-40be-b21e-e16fbe6d8cf3" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,11 +61,14 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="303" />
-    <option name="y" value="29" />
-    <option name="width" value="1664" />
-    <option name="height" value="1040" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -129,18 +127,18 @@
       <option name="presentableId" value="Default" />
       <updated>1560805005246</updated>
       <workItem from="1560805006642" duration="544000" />
-      <workItem from="1560975382952" duration="245000" />
+      <workItem from="1560975382952" duration="1393000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="789000" />
+    <option name="totallyTimeSpent" value="1937000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="303" y="29" width="1664" height="1040" extended-state="0" />
+    <frame x="1912" y="304" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2531172" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30711043" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
